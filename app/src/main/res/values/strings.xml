@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gestion_note</string>
+
+<string name="modules">dropDownMenuExample</string>
+<string-array name="Module">
+    <item>Infomatique</item>
+    <item>Analyse1</item>
+    <item>Algebre1</item>
+    <item>LC</item>
+    <item>Circuit electrique</item>
+</string-array>
+</resources>
